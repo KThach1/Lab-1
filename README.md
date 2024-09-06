@@ -1,0 +1,3 @@
+COMP 1054 Fall 2024
+Kenny Thach #200524650
+Lab #1
